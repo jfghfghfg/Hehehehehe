@@ -1,0 +1,4 @@
+"token_bot": "",
+"categoria": "",
+"cor_embeds": "",
+"dono_id": ""
